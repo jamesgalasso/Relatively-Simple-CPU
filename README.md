@@ -1,4 +1,3 @@
-Based on: https://coed.asee.org/wp-content/uploads/2020/11/6-The-Relatively-Simple-Computer-System-Simulator-A-Visualization-Tool-for-Computer-System-Organization-and-Architecture.pdf
 Usage:
 Provide input file of op codes in hex. For 16 bit opcodes, set the most significant bit to 1. This is a Big Endian CPU.
 Mneumonic 	Op Code 	Operation
